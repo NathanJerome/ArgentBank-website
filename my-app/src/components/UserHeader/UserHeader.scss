@@ -1,0 +1,30 @@
+.gray-input{
+    background-color: gray;
+}
+
+.save-button {
+ 
+  padding: 8px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-top: 1rem;
+  border: none; /* Supprime la bordure */
+  background-color: #00bc77;
+  color: #fff;
+  cursor: pointer; /* Change le curseur au survol */
+  border-radius: 4px;
+  transition: background-color 0.3s ease; /* Transition douce pour l'animation */
+}
+
+.cancel-button{
+    padding: 8px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-top: 1rem;
+    border: none; /* Supprime la bordure */
+    background-color: #b31717;
+    color: #fff;
+    cursor: pointer; /* Change le curseur au survol */
+    border-radius: 4px;
+    transition: background-color 0.3s ease; /* Transition douce pour l'animation */
+}
